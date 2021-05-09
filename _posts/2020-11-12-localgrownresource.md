@@ -1,35 +1,31 @@
 ---
 title: LocalGrownResource
-created: '2020-11-12T12:28:17.867842'
-modified: '2020-11-12T12:28:17.867848'
+created: '2020-11-12T12:27:33.343838'
+modified: '2020-11-12T12:27:33.343848'
 state: active
 type: dataset
 tags:
-  - Beer
-  - Brewery
+  - Community Supported Agriculture
+  - Csa
   - Distillery
-  - Economic
+  - Farm
+  - Farmers Market
+  - Food
+  - Honey
+  - Local
   - Local Food
   - Motm317
-  - Planning
-  - Recreation
+  - Motm516
+  - Motm616b
+  - U Pick
   - Whiskey
   - Wine
-  - Winery
 groups:
   - Local Government
 csv_url: >-
-  https://data.ferndalemi.gov/datasets/475b5e412b384f4aa16448379159081e_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data.ferndalemi.gov/datasets/e70af36af2574af68f8c9bec7963b35e_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-
-
-
-
-
-
-
-
-<p>BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE <u><a href='https://www.oakgov.com/open-data-terms'>TERMS OF USE</a></u><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>. </span></p><p>Contains locations of local breweries, wineries, and distilleries. Data is maintained by EDCA. Originally created in Spring, 2014.</p>
+<div>BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE <u><a href='https://www.oakgov.com/open-data-terms'>TERMS OF USE</a></u><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>. </span><br /></div><div>Contains locations where local food, beverage, and other products are produced. Also contains retail locations where these products are sold. This information is updated on an as-needed basis. Last update 7/18/2019. <br /></div>
