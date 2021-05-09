@@ -1,0 +1,25 @@
+---
+title: OC Conservation Easement
+created: '2020-11-12T12:26:21.073801'
+modified: '2020-11-12T12:26:21.073809'
+state: active
+type: dataset
+tags:
+  - Boundary
+  - Conservation
+  - Conservation Easement
+  - Development Rights
+  - Easement
+  - Economic Development
+  - Environment
+  - Planning
+  - Planningcadastre
+groups:
+  - Local Government
+csv_url: >-
+  https://data.ferndalemi.gov/datasets/45982f4194a840089b1da6bd252b96e5_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+json_url: ''
+layout: post
+
+---
+<div>BY USING THIS WEBSITE OR THE CONTENT THEREIN, YOU AGREE TO THE <u><a href='https://www.oakgov.com/open-data-terms'>TERMS OF USE</a></u><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>. </span></div><div><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>A spatial representation of land that is protected from development by a Conservation Easement recorded with the State of Michigan. These points were manually placed to represent the location of a conservation easement using tax parcels and orthophotography as a reference. Each easement location and associated attribute information was found through a recorded document search using Access Oakland. Key attributes include: GrantorName, StartDate, AcresRecorded, Liber, and Page.</span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>This purpose of this data is general planning purposes and cartographic output. This data can also be used in conjunction with the MNFI Natural Areas feature class to identify moderate to high quality natural areas that are not protected.</span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Each easement was located through Land Access, Oakland County's public records search tool. A search was conducted to find all recorded documents where the State of Michigan is the Grantee and the document type is an Easement (EST). In the Recorded Document Profile search within Land Access, three separate searches were performed to identify state recorded conservation easements: - &quot;State of Mi&quot; was entered as the &quot;Grantor&quot; and/or &quot;Grantee&quot; and &quot;EST&quot; was entered for the document type. </span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>This search was last performed 11/04/2003. - &quot;Michigan Dep&quot; was entered as the &quot;Grantor&quot; and/or &quot;Grantee&quot; and &quot;EST&quot; was entered for the document type. </span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>This search was last performed 11/04/2003. - &quot;Department&quot; was entered as the &quot;Grantor&quot; and/or &quot;Grantee&quot; and &quot;EST&quot; was entered for the document type. </span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>This search was last performed 11/04/2003. The legal description was used to identify the general location of the easement. </span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Most often, these easements are created within a new residential development and may contain multiple conservation areas. In these cases, the point was placed in a general location within the subdivision to represent all the areas described in the conservation easement. The attribute information (i.e., GrantorName, StartDate, AcresRecorded, Liber, and Page) was also collected through Land Access. </span><br /><br /><span style='font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif; font-size: 17px;'>Once complete, the dataset was verified internally and checked against information obtained from the Michigan Department of Environment Quality. We contacted David R. Dortman from the Land and Water Management Division who provided a list of the easements the state had record of. The list contained the Grantor, Liber, Page, and Acreage.</span></div>
