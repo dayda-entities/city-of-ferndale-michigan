@@ -1,7 +1,7 @@
 ---
 title: IndependentGiftToyStores retired
-created: '2020-11-12T12:25:50.928008'
-modified: '2020-11-12T12:25:50.928019'
+created: '2020-11-12T12:25:51.896705'
+modified: '2020-11-12T12:25:51.896715'
 state: active
 type: dataset
 tags:
@@ -12,7 +12,7 @@ tags:
 groups:
   - Local Government
 csv_url: >-
-  https://data.ferndalemi.gov/datasets/73ace1b270a746a398b9b7b514dd067b_5.csv?outSR=%7B%22latestWkid%22%3A2253%2C%22wkid%22%3A2253%7D
+  https://data.ferndalemi.gov/datasets/73ace1b270a746a398b9b7b514dd067b_3.csv?outSR=%7B%22latestWkid%22%3A2253%2C%22wkid%22%3A2253%7D
 json_url: ''
 layout: post
 
