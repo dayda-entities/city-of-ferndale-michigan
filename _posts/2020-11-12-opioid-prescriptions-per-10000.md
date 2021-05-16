@@ -1,19 +1,18 @@
 ---
-title: 'Opioid Prescriptions per 10,000 residents (2014)'
-created: '2020-11-12T12:24:53.081127'
-modified: '2020-11-12T12:24:53.081134'
+title: 'Opioid Prescriptions per 10,000 Residents (2016)'
+created: '2020-11-12T12:24:53.037444'
+modified: '2020-11-12T12:24:53.037455'
 state: active
 type: dataset
 tags:
-  - Drugs
-  - Opiates
+  - Opiate
+  - Opioid
   - Opioid Prescription Counts
-  - Opioids
   - Prescriptions
 groups:
   - Local Government
 csv_url: >-
-  https://data.ferndalemi.gov/datasets/3fa9f8f39cde4e4f946a64b3e80463c5_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data.ferndalemi.gov/datasets/ab92f7a4f1654c4c905bbbf41025fc14_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
