@@ -1,7 +1,7 @@
 ---
-title: 'Children Under 18, Medicaid,Visits to the ER Due to Diabetes'
-created: '2020-11-12T12:28:35.053129'
-modified: '2020-11-12T12:28:35.053140'
+title: 'Children Under 18, Medicaid,Visits to the ER Due to Asthma'
+created: '2020-11-12T12:28:36.048782'
+modified: '2020-11-12T12:28:36.048794'
 state: active
 type: dataset
 tags:
@@ -25,7 +25,7 @@ tags:
   - Zip Code
 groups:
   - Local Government
-csv_url: 'https://data.ferndalemi.gov/datasets/e217e3a7987346448ecc3497d34d4d36_0.csv'
+csv_url: 'https://data.ferndalemi.gov/datasets/e217e3a7987346448ecc3497d34d4d36_1.csv'
 json_url: ''
 layout: post
 
