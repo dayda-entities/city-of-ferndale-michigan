@@ -1,19 +1,18 @@
 ---
 title: TaxParcel
-created: '2020-11-12T12:29:46.981512'
-modified: '2020-11-12T12:29:46.981522'
+created: '2020-11-12T12:30:41.856728'
+modified: '2020-11-12T12:30:41.856735'
 state: active
 type: dataset
 tags:
-  - Business
-  - Ferndale Zoning
-  - Government
+  - Ferndale
+  - Planning
 groups:
   - Local Government
 csv_url: >-
-  https://data.ferndalemi.gov/datasets/6b82cb1df65c450daea1201942c73cce_2.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
+  https://data.ferndalemi.gov/datasets/ebc18573de2d4721b51a0fb9e3b68635_0.csv?outSR=%7B%22latestWkid%22%3A3857%2C%22wkid%22%3A102100%7D
 json_url: ''
 layout: post
 
 ---
-Zoning map of the City of Ferndale, MI
+{{default.description}}
